@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeb419c8-901a-4915-a040-d485f95fe265" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc12/PanelStudio.panelstudio-mc12.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc12/PanelStudio.panelstudio-mc12.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc16-fabric/PanelStudio.panelstudio-mc16-fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc16-fabric/PanelStudio.panelstudio-mc16-fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc8-fabric/PanelStudio.panelstudio-mc8-fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/panelstudio-mc8-fabric/PanelStudio.panelstudio-mc8-fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/ClickGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/ClickGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/ClickGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/ClickGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/HUDEditorModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/HUDEditorModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/LogoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/LogoModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/TabGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/TabGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/WatermarkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/module/WatermarkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/BooleanSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/ColorSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/ColorSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/DoubleSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/DoubleSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/EnumSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/EnumSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/IntegerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/IntegerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/KeybindSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/KeybindSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/StringSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/java/com/lukflug/examplemod16fabric/setting/StringSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/resources/assets/examplemod/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/resources/assets/examplemod/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/ClickGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/ClickGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/ClickGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/ClickGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/HUDEditorModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/HUDEditorModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/LogoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/LogoModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/TabGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/TabGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/WatermarkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/module/WatermarkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/BooleanSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/ColorSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/ColorSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/DoubleSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/DoubleSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/EnumSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/EnumSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/IntegerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/IntegerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/KeybindSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/KeybindSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/StringSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/java/com/lukflug/examplemod16forge/setting/StringSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/assets/examplemod/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/assets/examplemod/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod16-forge/src/main/resources/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/ClickGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/ClickGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/ClickGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/ClickGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/HUDEditorModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/HUDEditorModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/LogoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/LogoModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/TabGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/TabGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/WatermarkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/module/WatermarkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/BooleanSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/ColorSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/ColorSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/DoubleSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/DoubleSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/EnumSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/EnumSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/IntegerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/IntegerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/KeybindSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/KeybindSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/StringSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/java/com/lukflug/examplemod17/setting/StringSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/resources/assets/examplemod/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/resources/assets/examplemod/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod17/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod17/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/ClickGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/ClickGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/ClickGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/ClickGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/HUDEditorModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/HUDEditorModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/LogoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/LogoModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/TabGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/TabGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/WatermarkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/module/WatermarkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/BooleanSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/ColorSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/ColorSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/DoubleSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/DoubleSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/EnumSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/EnumSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/IntegerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/IntegerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/KeybindSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/KeybindSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/StringSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/java/com/lukflug/examplemod8fabric/setting/StringSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/resources/assets/examplemod/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/resources/assets/examplemod/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/ClickGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/ClickGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/ExampleMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/ClickGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/ClickGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/HUDEditorModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/HUDEditorModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/LogoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/LogoModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/TabGUIModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/TabGUIModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/WatermarkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/module/WatermarkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/BooleanSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/ColorSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/ColorSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/DoubleSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/DoubleSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/EnumSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/EnumSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/IntegerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/IntegerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/KeybindSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/KeybindSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/StringSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/java/com/lukflug/examplemod8forge/setting/StringSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/resources/assets/examplemod/panelstudio.png" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/resources/assets/examplemod/panelstudio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-mod8-forge/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/example-mod8-forge/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/GLInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/GLInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/MinecraftGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/MinecraftGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/MinecraftHUDGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/MinecraftHUDGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/java/com/lukflug/panelstudio/mc16fabric/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-forge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-forge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/GLInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/GLInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/MinecraftGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/MinecraftGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/MinecraftHUDGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/MinecraftHUDGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc16-forge/src/main/java/com/lukflug/panelstudio/mc16forge/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/GLInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/GLInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/MinecraftGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/MinecraftGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/MinecraftHUDGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/MinecraftHUDGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/src/main/java/com/lukflug/panelstudio/mc17/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc17/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc17/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/GLInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/GLInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/MinecraftGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/MinecraftGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/MinecraftHUDGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/MinecraftHUDGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/java/com/lukflug/panelstudio/mc8fabric/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-forge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-forge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/GLInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/GLInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/MinecraftGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/MinecraftGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/MinecraftHUDGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/MinecraftHUDGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/panelstudio-mc8-forge/src/main/java/com/lukflug/panelstudio/mc8forge/package-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/panelstudio">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fabric" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+                <item name="panelstudio" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+                <item name="panelstudio" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PanelStudio" type="f1a62948:ProjectNode" />
+                <item name="panelstudio" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B0xZe26ijydXs56BgMvI2CaULX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gjre9/Documents/GitHub/example-mod18&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PanelStudio [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PanelStudio [runClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="aeb419c8-901a-4915-a040-d485f95fe265" name="변경" comment="" />
+      <created>1656056869560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656056869560</updated>
+      <workItem from="1656056878533" duration="660000" />
+      <workItem from="1656058278282" duration="43000" />
+      <workItem from="1656058533969" duration="323000" />
+      <workItem from="1656059136586" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
